@@ -2,6 +2,7 @@
 name = "data-science-template"
 version = "0.1.0"
 description = "Add your description here"
+authors = [{ name = "Author Name" }]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
